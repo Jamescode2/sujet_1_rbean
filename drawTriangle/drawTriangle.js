@@ -11,7 +11,4 @@ function drawTriangle(int) {
 
 }
 
-
-
-
 module.exports = drawTriangle;
